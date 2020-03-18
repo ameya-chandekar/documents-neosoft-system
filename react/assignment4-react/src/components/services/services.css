@@ -1,0 +1,16 @@
+/* services section */
+.services
+{
+background-color:rgb(94, 204, 255);
+
+height: auto;
+color: aliceblue;
+}
+.services-wrapper{padding: 5% 10% 3% 10%;}
+.services-wrapper img { 
+width: 30px;
+height:30px;
+}
+.services p {
+    font-size: 10px;
+}

@@ -1,0 +1,19 @@
+Generated File. Do not edit.
+
+[HEADER]
+Version:0.19t:$
+Arch:x86_64-gcc3:$
+
+[PLUGINS]
+
+[INVALID]
+/Library/Internet Plug-Ins/AdobePDFViewer.plugin:$
+1530279839000:$
+/Library/Internet Plug-Ins/AdobePDFViewerNPAPI.plugin:$
+1530279852000:$
+/Library/Internet Plug-Ins/JavaAppletPlugin.plugin:$
+1570796652542:$
+/Library/Internet Plug-Ins/Disabled Plug-Ins:$
+1500599336000:$
+/Library/Internet Plug-Ins/Default Browser.plugin:$
+1527107348000:$

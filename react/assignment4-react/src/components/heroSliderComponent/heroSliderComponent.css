@@ -1,0 +1,47 @@
+
+/* slider-section */
+.blueasy{color: rgb(94, 204, 255);}
+.nav-link{color: aliceblue;}
+.nav-link:hover{
+    border: 2px solid rgb(94, 204, 255);
+}
+.heroslider{
+     background-image: url('../../images/hero_slider3.png'); 
+    height:530px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.hero-slider-nav1{
+    background-color:rgba(51, 51, 51, 0.76);
+    padding: 20px 0 20px 0;
+    color: aliceblue;
+}
+
+.hero-slider-title{
+  
+    padding: 17% 0;
+    text-align: center;
+    color: aliceblue;
+    
+}
+.hero-slider-title div {margin:22px 0  ;}
+.hero-slider-title-head {
+    margin:10px 0  ;
+    padding:5px 0 5px 0 ;
+    background-color:rgb(51, 51, 51);
+    
+}
+
+
+
+
+
+
+.hero-slider-title{
+    
+    padding: 17% 0;
+    text-align: center;
+    color: aliceblue;
+    
+}

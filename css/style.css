@@ -1,0 +1,11 @@
+.heroslider{
+    background-image: url('../imagess/hero_slider.png');
+    height: 650px;
+    
+}
+.services
+{
+background-color: aqua;
+max-height: 300px;
+height: 100%;
+}

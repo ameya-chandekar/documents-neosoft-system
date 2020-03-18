@@ -1,0 +1,19 @@
+
+/* 
+default-video section */
+
+.just-default-section-wrapper
+{  
+    height: 100%;
+    padding: 5% 10% 3% 10%;
+    background-color: gray;
+    color: aliceblue;
+}
+
+
+.just-default-section-video img{
+    height: 100%;
+    width:100%
+}
+.just-default-section-btn:hover{background-color:rgb(94, 204, 255);
+}

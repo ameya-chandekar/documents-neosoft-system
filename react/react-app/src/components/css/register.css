@@ -1,0 +1,102 @@
+
+/* This is register component ss */
+
+.register{
+    background-color: dimgrey;
+    font-family: sans-serif;
+
+}
+
+    
+.register .form-control{
+    width: 50%;
+    padding-top:5px;
+    padding-bottom:5px;
+    margin: 10px 10% 10px 10%;
+}
+
+.register h1{ color: white;  padding:20px 0px; margin-left: 10%;}
+.register label{ color:whitesmoke; margin-left:10%;}
+
+
+
+
+.btn{margin:10px 0 20px 10% ; background:white; }
+.btn:hover{color: rgb(158, 242, 253);}
+input:hover::placeholder{color:rgb(158, 242, 253)}
+/* h1{} */
+
+
+
+
+
+
+
+/* This is login component ss */
+.sdd{ background-color: dimgrey;
+  height: 610px;
+  padding-top: 70px;
+}
+.login{
+    background-color: dimgrey;
+    font-family: sans-serif;
+    width: 30%;
+   margin-left: 35%;
+   border-style: solid;
+   border-color: white;
+}
+.login .form-control{
+    width: 70%;
+    padding-top:5px;
+    padding-bottom:5px;
+    margin: 10px 10% 10px 10%;
+}
+.login label{ color:whitesmoke; margin-left:10%;}
+.login h1{ color: white;  padding:20px 0px 20px 20px; margin-left: 10%;}
+ .btn:hover{color: rgb(158, 242, 253);}
+.fp a{
+    color: red;
+    margin-left: 10%;
+}
+.fp a:hover {
+    color: rgba(255, 0, 0, 0.527);
+  }
+
+
+
+
+
+
+
+/* this is home components ss */
+  .home{
+    background-color: dimgrey;
+    font-family: sans-serif;
+    height: 605px;
+    padding-top: 10%;
+}
+
+  .home button{width: 100%; margin: 0px; }
+  .home button:hover{width: 100%; margin: 0px; color:  rgb(158, 242, 253);}
+  .home Link{text-decoration: none;}
+  .home h1 {color: white;}
+
+
+
+
+
+  .allusers{
+  background-color: dimgrey; 
+  height:609px;
+  padding: 10% 0 0 0;
+}
+.allusers table {
+  color: white;
+
+  width: 69%;
+  margin-left: 10%;
+}
+.allusers table th{text-align: center;}
+.allusers button { width:100% ; margin: 0; padding: 5px;}
+.allusers button:hover{width: 100%; margin: 0px; color:  rgb(158, 242, 253);}
+.allusers table h1 pre{color: white;}

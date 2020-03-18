@@ -1,0 +1,12 @@
+
+/* testimonials section */
+.testimonials-section{
+ 
+    height: auto;
+    color: rgb(88, 88, 88);
+}
+.testimonials-section-wrapper
+{
+    padding: 5% 10% 3% 10%;
+}
+.testimonials-section-wrapper i {font-size: 20px;}

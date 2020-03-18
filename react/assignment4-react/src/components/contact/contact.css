@@ -1,0 +1,28 @@
+
+/* CONTACT */
+
+.contact{
+    background-image: url('../../images/bg-holder.png');
+    height:auto;
+    background-repeat: no-repeat;
+    background-size: 100% 100%; 
+    color: aliceblue;
+}
+.contact-wrapper{
+    padding: 5% 10% 3% 10%;
+}
+
+.contact-form-control{
+    background-color:rgba(0,0,0,0) !important;
+    border: 1px solid aliceblue;
+   
+}
+.contact-message-btn{
+    background-color:rgb(94, 204, 255);
+    color: aliceblue;
+
+}
+@media only screen and (max-width: 768px) {
+
+    .contact-text{display:none;}
+}

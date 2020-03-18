@@ -1,0 +1,16 @@
+
+/* twitter section */
+.twitter-section{
+    background-color:rgb(94, 204, 255);
+    height: 180px;
+    color: aliceblue;
+}
+.twitter-section-wrapper
+{
+    padding: 5% 10% 3% 10%;
+}
+.twitter-section-wrapper i {font-size: 20px;}
+.just-default-section-btn{ 
+    padding: 4px 15px; 
+    background-color:transparent;
+}
